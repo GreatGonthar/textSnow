@@ -1,0 +1,13 @@
+div {
+    background: silver;
+    display: inline-block;
+    vertical-align: top;
+    margin: auto auto auto auto ;
+}
+p {
+/* background: olive; */
+margin: 1px;
+line-height: .5em;
+font-family: monospace;
+font-size: 2em;
+}
